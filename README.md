@@ -17,3 +17,13 @@ For licensing requests, contact: discord:89fc(username)
 
 This project will not be updated.
 A full-featured, updated paid version can be purchased at discord.gg/hikakin
+
+## Requirements
+
+- Python 3.10+
+- pip (Python package manager)
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
