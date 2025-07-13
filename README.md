@@ -1,14 +1,16 @@
-## License
+## 🚫 License and Usage Terms
 
-This project is NOT open source under traditional terms.
+This project is **NOT open source**.
 
 You are allowed to:
-- Use the code for personal or academic research use.
-- Refer to it for learning or educational purposes.
+- Use this code **for personal or academic research purposes only**.
+- Refer to it for learning and educational value.
 
-You are NOT allowed to:
-- Redistribute, modify, or re-upload this code.
-- Use it commercially or for profit.
-- Include it in your own public or private projects.
+You are **NOT allowed** to:
+- Redistribute or modify this code without explicit permission.
+- Use it commercially or include it in any paid product or service.
+- Re-upload or resell this code, even with credits.
 
-All rights reserved. Contact me if you want to use it beyond these terms.
+> Any unauthorized use or re-upload will result in a **DMCA takedown request** and potential legal consequences.
+
+For licensing requests, contact: your-email@example.com
