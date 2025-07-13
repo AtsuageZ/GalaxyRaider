@@ -14,3 +14,6 @@ You are **NOT allowed** to:
 > Any unauthorized use or re-upload will result in a **DMCA takedown request** and potential legal consequences.
 
 For licensing requests, contact: discord:89fc(username)
+
+This project will not be updated.
+A full-featured, updated paid version can be purchased at discord.gg/hikakin
